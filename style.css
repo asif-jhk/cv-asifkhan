@@ -1,0 +1,98 @@
+* {
+  margin: 0 auto;
+  padding: 0 auto;
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.container {
+  max-width: 1000px;
+  background-color: #cbfff5;
+  margin: 0 auto;
+}
+
+.link a {
+  color: black;
+  text-decoration: none;
+}
+.link:hover {
+  color: orange;
+  text-decoration: underline;
+}
+.pro-pic {
+  width: 100px;
+  height: 120px;
+  border-radius: 50%;
+  border: 5px solid white;
+  float: left;
+}
+.bio {
+  float: left;
+}
+.header-bio {
+  padding: 50px;
+  padding-left: px;
+  width: 50%;
+  float: left;
+}
+.contact {
+  padding-top: 60px;
+}
+.bio-hr {
+  border: 2px solid black;
+}
+.section-hr {
+  border: 1.5px solid black;
+}
+.div-clear {
+  clear: both;
+}
+.left-div {
+  margin-top: 0 auto;
+  width: 30%;
+  float: left;
+  text-transform: capitalize;
+}
+.right-div {
+  width: 30%;
+  float: left;
+  text-transform: capitalize;
+}
+#uni {
+  color: red;
+}
+.footer-content {
+  background-color: black;
+  text-decoration: none;
+}
+.footer-link {
+  color: wheat;
+}
+.middle-div{
+  color: red;
+  float: right;
+  width: 30%;
+}
+.f-link{
+  text-align: center;
+  text-decoration: none;
+}
+.f-link a{
+  text-decoration: none;
+}
+
+.f-link a:hover{
+  background-color: aquamarine;
+  text-decoration: underline;
+  color: white;
+}
+.f-link a p:hover{
+  color: beige;
+  background-color: #0866FF;
+  width: 50%;
+}
+#WHATSAPP:hover{
+  background-color: #00D757;
+  width: 50%;
+}
